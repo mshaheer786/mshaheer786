@@ -5,7 +5,7 @@
 ### CS Student → AI & ML Engineer in Progress
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-NexoraWeb-0a66c2?style=for-the-badge&logo=vercel&logoColor=white)](https://nexorawebofficial.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mshaheer786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shaheer-66a314251/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mshaheer786)
 
 </div>
