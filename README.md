@@ -42,6 +42,7 @@ shaheer = {
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3796ab?style=flat-square&logo=C++&logoColor=white)
 
 **AI / ML**
 
