@@ -83,7 +83,7 @@ shaheer = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Complete a full ML pipeline project (data → model → deployment)
 - [ ] Get certified in AWS Cloud Fundamentals
